@@ -1,0 +1,6 @@
+uk/ac/rhul/cs2800/model/Module.class
+uk/ac/rhul/cs2800/model/Grade.class
+uk/ac/rhul/cs2800/model/Registration.class
+uk/ac/rhul/cs2800/model/NoRegistrationException.class
+uk/ac/rhul/cs2800/model/NoGradeAvailableException.class
+uk/ac/rhul/cs2800/model/Student.class
